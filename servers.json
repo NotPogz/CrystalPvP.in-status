@@ -1,12 +1,7 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
-		"type": "PC"
-	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "CrystalPvP.in",
+		"ip": "CrystalPvP.in",
 		"type": "PC"
 	}
 ]
